@@ -5,4 +5,5 @@ A group effort!
 ### The team
 
 * Ryan
+* Abe Lincoln
 * Ghost
