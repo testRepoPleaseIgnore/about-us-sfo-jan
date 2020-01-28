@@ -8,4 +8,3 @@ A group effort!
 * Sam
 * Abe Lincoln
 * Ghost
-
