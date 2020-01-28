@@ -6,3 +6,4 @@ A group effort!
 
 * Ryan
 * Abe Lincoln
+* Ghost
