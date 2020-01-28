@@ -6,3 +6,5 @@ A group effort!
 
 * Ryan
 * Tammy
+* Abe Lincoln
+* Ghost
