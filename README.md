@@ -5,3 +5,4 @@ A group effort!
 ### The team
 
 * Ryan
+* Sam
