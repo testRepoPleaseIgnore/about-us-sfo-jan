@@ -6,3 +6,5 @@ A group effort!
 
 * Ryan
 * Roopa
+* Abe Lincoln
+* Ghost
