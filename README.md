@@ -6,3 +6,5 @@ A group effort!
 
 * Ryan
 *Shankari
+* Abe Lincoln
+* Ghost
