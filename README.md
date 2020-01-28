@@ -6,3 +6,5 @@ A group effort!
 
 * Ryan
 * Loomi
+* Abe Lincoln
+* Ghost
