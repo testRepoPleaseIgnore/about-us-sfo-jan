@@ -6,3 +6,5 @@ A group effort!
 
 * Ryan
 * Sesh
+* Abe Lincoln
+* Ghost
